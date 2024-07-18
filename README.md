@@ -71,6 +71,14 @@ $ npm run android
 $ npm run web
 ```
 
+4. Running the Test(s)
+
+```bash
+# Run the test:
+$ npm run test
+
+```
+
 ## App Folder Structure
 ```
 breadfast-social-app/
