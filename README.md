@@ -66,6 +66,8 @@ $ npm run web
 breadfast-social-app/
 ├── assets/
 │   └── breadfastlogo.png
+├── __tests__/
+│   └── PostsDetailsScreen.test.tsx
 ├── src/
 │   ├── screens/
 │   │   ├── SplashScreen.tsx
