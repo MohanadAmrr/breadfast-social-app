@@ -10,7 +10,7 @@ Breadfast Social App is a sample social mobile application built with React Nati
 
 <img src="Simulator Screenshot - iPhone Xs - 2024-07-18 at 07.00.42 #2.png" width="200" alt="Post Details">
 <img src="Simulator Screenshot - iPhone Xs - 2024-07-18 at 06.52.20.png" width="200" alt="Splash Screen">
-<img src="Simulator Screenshot - iPhone Xs - 2024-07-18 at 06.54.20.png" width="200" alt="Posts List">
+<img src="Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2007.00.42%20%232.png" width="200" alt="Post Details">
 
 ## Features
 
