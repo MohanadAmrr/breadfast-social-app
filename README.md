@@ -6,12 +6,10 @@ Breadfast Social App is a sample social mobile application built with React Nati
 
 ## Screenshots
 
-
-
 <div style="display: flex; justify-content: space-around;">
-  <img src="Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2006.52.20.png" width="200" alt="Splash Screen">
-  <img src="Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2006.54.20.png" width="200" alt="Posts List">
-  <img src="Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2007.00.42%20%232.png" width="200" alt="Post Details">
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2006.52.20.png" width="200" alt="Splash Screen">
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2006.54.20.png" width="200" alt="Posts List">
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2007.00.42%20%232.png" width="200" alt="Post Details">
 </div>
 
 ## Features
@@ -67,7 +65,7 @@ $ npm start
 $ npm run ios
 # Android:
 $ npm run android
-# Web: 
+# Web:
 $ npm run web
 ```
 
@@ -80,6 +78,7 @@ $ npm run test
 ```
 
 ## App Folder Structure
+
 ```
 breadfast-social-app/
 ├── assets/
@@ -93,7 +92,7 @@ breadfast-social-app/
 │   │   └── PostDetailsScreen.tsx
 │   ├── types/
 │   │   └── types.ts
-│   
+│
 ├── app.json
 ├── App.tsx
 ├── package.json
