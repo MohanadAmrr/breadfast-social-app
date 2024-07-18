@@ -4,6 +4,12 @@
 
 Breadfast Social App is a sample social mobile application built with React Native and Expo. It features a splash screen, a home screen with a list of posts, and a detailed view for each post including comments.
 
+## Screenshots
+
+![Splash Screen](Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2006.52.20.png)
+![Posts List](Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2006.54.20.png)
+![Post Details](Simulator%20Screenshot%20-%20iPhone%20Xs%20-%202024-07-18%20at%2007.00.42%20%232.png)
+
 ## Features
 
 - Splash screen with animated logo
